@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: catalog-test-beta
+  description: Test library beta for IDP Catalog Info YAML integration
+  tags:
+    - test
+    - frontend
+spec:
+  type: library
+  lifecycle: experimental
+  owner: user:guest
