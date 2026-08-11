@@ -13,6 +13,8 @@ spec:
   - user:account/jenil.jain@harness.io
   - user:account/sathish.soundarapandian@harness.io
   - user:account/vigneswara.mh@harness.io
+  profile:
+    email: ishan.gude@harness.io
 metadata:
   tags:
   - java
