@@ -8,6 +8,7 @@ projectIdentifier: testautoidp
 spec:
   lifecycle: ''
   leader: user:account/sandeepa.kv@harness.io
+  parent: group:account/idp
   members:
   - user:account/jenil.jain@harness.io
   - user:account/sathish.soundarapandian@harness.io
